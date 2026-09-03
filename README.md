@@ -36,19 +36,18 @@ Financial and Operational Baseline Despite high cancellations, the underlying fi
 
 
  ## COMPREHENSIVE CUSTOMERS BREAKDOWN
-  To optimize your marketing spend, room pricing, and food and beverage (F&B) operations, your customer base has been segmented into four distinct pillars.
+ In order to optimize marketing spend, room pricing, and food and beverage (F&B) operations, the customer base has been segmented into four distinct pillars.
 
 1. Geographic Profile (Where They Live) Your customer base is almost entirely dominated by Western European travelers.
     * The Core Market: Portugal (PRT) is your undisputed anchor market, driving 49K bookings.
     * The Secondary Tier: The remaining volume is distributed across four core European nations: the United Kingdom (GBR) at 12K, France (FRA) at 10K, Spain (ESP) at 9K, and Germany (DEU) at 7K.
     * Operational Impact: Front-of-house staff, digital signage, and guest materials should prioritize localized tailoring for these five specific nationalities.
 
-3. Purchasing & Booking Channels (How They Buy) Your hotel relies heavily on digital distribution, leaving you exposed to third-party platforms.
+2. Purchasing & Booking Channels (How They Buy) Your hotel relies heavily on digital distribution, leaving you exposed to third-party platforms.
    * The "Online TA" Monopoly: The Online Travel Agency (Online TA) market segment is your largest and most powerful acquisition engine.
    * Minor Channels: Traditional Offline TA/TO (Tour Operators) and Group Bookings occupy a distant second tier. Direct bookings, corporate contracts, and aviation channels represent a tiny fraction of your portfolio.
    * Operational Impact: While Online TAs keep your occupancy high, they charge heavy commission fees. You are highly dependent on external platforms to fill rooms.
 
-  
  3. On-Site Behavior & Product Preferences (What They Buy) Guests view your property primarily as a convenient, efficient, short-term accommodation hub.
     * The Fast Turn: The tight 3.43-night stay average proves that guests are looking for quick leisure breaks or brief business stops, not long-term resort holidays.
     * High-Volume Inventory: Room Type A is the most heavily demanded accommodation layout on the property.
